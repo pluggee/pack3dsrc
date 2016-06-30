@@ -16783,7 +16783,7 @@ DEF STL_object Transform {
           2742, 2745, 2746, -1,
           2742, 2746, 2744, -1 ]
         color Color { color [
-          0.0 0.0 0.0,
+          0.2 0.2 0.2,
           1.0 1.0 1.0 ] }
         colorIndex [
           0, 0, 0, -1,
